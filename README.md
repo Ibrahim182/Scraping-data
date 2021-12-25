@@ -4,4 +4,6 @@ Scraping website contains of books with some details and save the data into data
 <img src="images/books.jpeg" alt="Books table">
 <h3>Sample of categories table</h3> 
 <img src="images/category.jpg" alt="Books table">
+<h3>Sample of operations in sqlite</h3>
+<img src="images/operation.jpg">
 <a href="https://books.toscrape.com">The link of the website</a>
